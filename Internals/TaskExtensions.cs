@@ -1,8 +1,4 @@
-﻿using System;
-using System.Threading;
-using System.Threading.Tasks;
-
-namespace Onvif.Core.Internals;
+﻿namespace Onvif.Core.Internals;
 
 internal static class TaskExtensions
 {

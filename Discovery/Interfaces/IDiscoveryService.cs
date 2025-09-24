@@ -1,8 +1,6 @@
 ﻿using Onvif.Core.Discovery.Models;
 
 using System.Collections.ObjectModel;
-using System.Threading;
-using System.Threading.Tasks;
 
 namespace Onvif.Core.Discovery.Interfaces;
 

@@ -1,7 +1,7 @@
 using System.CodeDom.Compiler;
 using System.Diagnostics;
-using System.Xml.Serialization;
 using System.Xml.Linq;
+using System.Xml.Serialization;
 
 namespace Onvif.Core.Client.Imaging;
 

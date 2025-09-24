@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Onvif.Core.Discovery
+﻿namespace Onvif.Core.Discovery
 {
     internal static class ScopesParser
     {

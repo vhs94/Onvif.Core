@@ -1,7 +1,5 @@
 ﻿using Onvif.Core.Internals;
 
-using System;
-
 namespace Onvif.Core.Client.Camera;
 
 public class Account(string host, string userName, string password) : IEquatable<Account>

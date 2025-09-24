@@ -3,11 +3,6 @@ using Onvif.Core.Client.Imaging;
 using Onvif.Core.Client.Media;
 using Onvif.Core.Client.Ptz;
 
-using System;
-using System.Collections.Generic;
-using System.Threading;
-using System.Threading.Tasks;
-
 namespace Onvif.Core.Client.Camera;
 
 public class Camera(Account account)

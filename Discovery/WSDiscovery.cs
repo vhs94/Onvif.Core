@@ -2,16 +2,10 @@
 using Onvif.Core.Discovery.Interfaces;
 using Onvif.Core.Discovery.Models;
 using Onvif.Core.Internals;
-
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Serialization;
 

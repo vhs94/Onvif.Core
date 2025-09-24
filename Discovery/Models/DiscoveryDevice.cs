@@ -1,8 +1,4 @@
 ﻿using Onvif.Core.Internals;
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
 
 namespace Onvif.Core.Discovery.Models;
@@ -65,7 +61,7 @@ public class DiscoveryDevice : IEquatable<DiscoveryDevice>
 
     public override int GetHashCode()
     {
-        Fnv1aImpl hash = new ();
+        Fnv1aImpl hash = new();
         return hash.AppendObjs(Types)
                    .AppendObjs(XAdresses)
                    .AppendObj(Model)

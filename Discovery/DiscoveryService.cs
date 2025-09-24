@@ -1,13 +1,7 @@
 ﻿using Onvif.Core.Discovery.Common;
 using Onvif.Core.Discovery.Interfaces;
 using Onvif.Core.Discovery.Models;
-
-using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.Linq;
-using System.Threading;
-using System.Threading.Tasks;
 
 namespace Onvif.Core.Discovery;
 
